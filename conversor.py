@@ -73,3 +73,4 @@ else:
 		elif voltar == "":
 			print("\033[m[*] Programa encerrado as {}".format(starttime))
 			sys.exit()
+# Fim
