@@ -2,11 +2,11 @@
 # audios em MP3                                                      |
 # -------------------------------------------                        |
 # Esse código faz parte do meu programa E-tube                       |    \ 
-# Mas estou trazendo ele aqui porque talvez vocês                           # Autor: lucas-Dk  |  WhatsApp: +5531986802198
+# Mas estou trazendo ele aqui porque talvez vocês                           # Autor: Nano-9 | Telegram: https://t.me/rdin9
 # Queiram apenas o conversor. Mas o mesmo código aqui                |    /
 # Se encontra dento do E-tube, meu programa!                         |
 # ---------------------------------------------------                |
-# Facebok: https://www.facebook.com/Walker.Lxrd/                     | 
+# Telegram: https://t.me/rdzin-9                     | 
 
 try:
 	import os
