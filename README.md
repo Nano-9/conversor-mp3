@@ -21,4 +21,4 @@ Script que converte vários formatos de vídeos em MP3
 
 - Passado esses dados ele converte todos os videos do formato que passei (.wmv) para .mp3!
 
-- By: lucas-Dk
+- By: nano-9
